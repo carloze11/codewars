@@ -1,4 +1,4 @@
-//pick a set of first elements
+//pick a set of first elementsgit a
 
 // Write a function to get the first elements of asequence. Passing a parameter n (default=1) will return the first n elements of the sequence.
 
